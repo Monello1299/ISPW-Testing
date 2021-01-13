@@ -7,7 +7,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import static org.junit.Assert.*;
 
-public class testSeleniumHomework {
+public class TestSeleniumHomework {
 	@Test
 	public void testConvertitorResult(){
 		int number = 6;
